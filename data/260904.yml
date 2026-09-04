@@ -7,7 +7,7 @@ about:
   head: 062a5e1
   archived: false
   latestVersion: v0.16.8.2
-  collectedAt: 2026-09-04T19:33:58Z
+  collectedAt: 2026-09-04T20:58:19Z
 timeline:
   created: 2018-01-31
   lastCommit: 2026-03-31
@@ -82,6 +82,49 @@ total:
   openIssue: 27
   commit: 495
 ---
+path: /home/runner/.x-repo/github.com/nosarthur/gita
+collectedAt: 2026-09-04T20:58:20Z
+loc:
+  Python:
+    code: 2403
+    comments: 74
+    blanks: 314
+    files: 11
+  Json:
+    code: 97
+    comments: 0
+    blanks: 0
+    files: 1
+  Makefile:
+    code: 20
+    comments: 0
+    blanks: 1
+    files: 1
+  Fish:
+    code: 16
+    comments: 0
+    blanks: 1
+    files: 1
+  Autoconf:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 599
+    blanks: 214
+    files: 4
+  Text:
+    code: 0
+    comments: 5
+    blanks: 0
+    files: 1
+total:
+  code: 2574
+  comments: 678
+  blanks: 531
+  files: 20
 ---
 date: "2026-08-24"
 repo:
