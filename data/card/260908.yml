@@ -5,13 +5,13 @@ about:
   head: 062a5e1
   archived: false
   latestVersion: "v0.16.8.2"
-  collectedAt: 2026-09-08T02:24:58Z
+  collectedAt: 2026-09-08T05:08:35Z
 timeline:
   created: 2018-01-31
   lastCommit: 2026-03-31
   lastRelease: 2025-11-18
 popularity:
-  star: 1936
+  star: 1937
   watcher: 15
   fork: 92
   release: 38
@@ -81,7 +81,7 @@ total:
   commit: 495
 ---
 path: /home/runner/.x-repo/github.com/nosarthur/gita
-collectedAt: 2026-09-08T02:25:00Z
+collectedAt: 2026-09-08T05:08:35Z
 loc:
   Python:
     code: 2403
