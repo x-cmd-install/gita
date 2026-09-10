@@ -1,0 +1,417 @@
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: gita
+  binnames:
+    - gita
+  visiblename: gita
+  version: 0.16.8.2
+  origversion: 0.16.8.2-1
+  status: newest
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - misc
+- repo: aur
+  srcname: gita
+  binname: gita
+  visiblename: gita
+  version: 0.16.8.2
+  origversion: 0.16.8.2-2
+  status: newest
+  summary: Command-line tool to manage multiple git repos
+  maintainers:
+    - tarball@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: gita-git
+  binname: gita-git
+  visiblename: gita-git
+  version: 0.15.2.r1.gee9b2f7
+  origversion: 0.15.2.r1.gee9b2f7-1
+  status: rolling
+  summary: Manage many git repos with sanity 从容管理多个git库
+  maintainers:
+    - bet4it@aur
+  licenses:
+    - MIT
+- repo: debian_11
+  subrepo: bullseye/main
+  srcname: gita
+  binnames:
+    - gita
+  visiblename: gita
+  version: 0.12.9
+  origversion: 0.12.9-1
+  status: outdated
+  maintainers:
+    - daniel.baumann@progress-linux.org
+  categories:
+    - misc
+- repo: debian_12
+  subrepo: bookworm/main
+  srcname: gita
+  binnames:
+    - gita
+  visiblename: gita
+  version: 0.16.2
+  origversion: 0.16.2-2
+  status: outdated
+  maintainers:
+    - daniel.baumann@progress-linux.org
+  categories:
+    - misc
+- repo: debian_13
+  subrepo: trixie/main
+  srcname: gita
+  binnames:
+    - gita
+  visiblename: gita
+  version: 0.16.7.2
+  origversion: 0.16.7.2-4
+  status: outdated
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - misc
+- repo: debian_14
+  subrepo: forky/main
+  srcname: gita
+  binnames:
+    - gita
+  visiblename: gita
+  version: 0.16.8.2
+  origversion: 0.16.8.2-1
+  status: newest
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - misc
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: gita
+  binnames:
+    - gita
+  visiblename: gita
+  version: 0.16.8.2
+  origversion: 0.16.8.2-1
+  status: newest
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - misc
+- repo: deepin_25
+  subrepo: community
+  srcname: gita
+  binnames:
+    - gita
+  visiblename: gita
+  version: 0.16.7.2
+  origversion: 0.16.7.2-4
+  status: outdated
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - misc
+- repo: devuan_4_0
+  subrepo: chimaera/main
+  srcname: gita
+  binnames:
+    - gita
+  visiblename: gita
+  version: 0.12.9
+  origversion: 0.12.9-1
+  status: outdated
+  maintainers:
+    - daniel.baumann@progress-linux.org
+  categories:
+    - misc
+- repo: gnuguix
+  srcname: gita
+  binname: gita
+  visiblename: gita
+  version: 0.16.7.2
+  origversion: null
+  status: outdated
+  summary: Command-line tool to manage multiple Git repos
+- repo: homebrew
+  srcname: gita
+  visiblename: gita
+  version: 0.16.8.2
+  origversion: null
+  status: newest
+  summary: Manage multiple git repos with sanity
+- repo: kali_rolling
+  subrepo: main
+  srcname: gita
+  binnames:
+    - gita
+  visiblename: gita
+  version: 0.16.8.2
+  origversion: 0.16.8.2-1
+  status: newest
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - misc
+- repo: nix_stable_24_05
+  srcname: gita
+  visiblename: gita
+  version: 0.16.6.1
+  origversion: null
+  status: outdated
+  summary: A command-line tool to manage multiple git repos
+  maintainers:
+    - seqizz@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: gita
+  visiblename: gita
+  version: 0.16.6.1
+  origversion: null
+  status: outdated
+  summary: Command-line tool to manage multiple git repos
+  maintainers:
+    - seqizz@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: gita
+  visiblename: gita
+  version: 0.16.6.1
+  origversion: null
+  status: outdated
+  summary: Command-line tool to manage multiple git repos
+  maintainers:
+    - seqizz@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: gita
+  visiblename: gita
+  version: 0.16.6.1
+  origversion: null
+  status: outdated
+  summary: Command-line tool to manage multiple git repos
+  maintainers:
+    - seqizz@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: gita
+  visiblename: gita
+  version: 0.16.8.2
+  origversion: null
+  status: newest
+  summary: Command-line tool to manage multiple git repos
+  maintainers:
+    - seqizz@gmail.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: gita
+  visiblename: gita
+  version: 0.16.8.2
+  origversion: null
+  status: newest
+  summary: Command-line tool to manage multiple git repos
+  maintainers:
+    - seqizz@gmail.com
+  licenses:
+    - MIT
+- repo: pardus_21
+  subrepo: main
+  srcname: gita
+  binnames:
+    - gita
+  visiblename: gita
+  version: 0.12.9
+  origversion: 0.12.9-1
+  status: outdated
+  maintainers:
+    - daniel.baumann@progress-linux.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: gita
+  binnames:
+    - gita
+  visiblename: gita
+  version: 0.16.7.2
+  origversion: 0.16.7.2-4
+  status: outdated
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot/main
+  srcname: gita
+  binnames:
+    - gita
+  visiblename: gita
+  version: 0.16.7.2
+  origversion: 0.16.7.2-4
+  status: outdated
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - misc
+- repo: pureos_byzantium
+  subrepo: byzantium/main
+  srcname: gita
+  binnames:
+    - gita
+  visiblename: gita
+  version: 0.12.9
+  origversion: 0.12.9-1
+  status: outdated
+  maintainers:
+    - daniel.baumann@progress-linux.org
+  categories:
+    - utils
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: gita
+  binnames:
+    - gita
+  visiblename: gita
+  version: 0.16.7.2
+  origversion: 0.16.7.2-4
+  status: outdated
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - utils
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: gita
+  binnames:
+    - gita
+  visiblename: gita
+  version: 0.16.2
+  origversion: 0.16.2-2
+  status: outdated
+  maintainers:
+    - daniel.baumann@progress-linux.org
+  categories:
+    - misc
+- repo: raspbian_stable
+  subrepo: main
+  srcname: gita
+  binnames:
+    - gita
+  visiblename: gita
+  version: 0.16.7.2
+  origversion: 0.16.7.2-4
+  status: outdated
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: gita
+  binnames:
+    - gita
+  visiblename: gita
+  version: 0.16.8.2
+  origversion: 0.16.8.2-1
+  status: newest
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - misc
+- repo: trisquel_11_0
+  subrepo: aramo/main
+  srcname: gita
+  binnames:
+    - gita
+  visiblename: gita
+  version: 0.16.2
+  origversion: 0.16.2-1
+  status: outdated
+  maintainers:
+    - daniel.baumann@progress-linux.org
+  categories:
+    - universe/misc
+- repo: ubuntu_22_04
+  subrepo: jammy/universe
+  srcname: gita
+  binnames:
+    - gita
+  visiblename: gita
+  version: 0.16.2
+  origversion: 0.16.2-1
+  status: outdated
+  maintainers:
+    - daniel.baumann@progress-linux.org
+  categories:
+    - universe/misc
+- repo: ubuntu_24_04
+  subrepo: noble/universe
+  srcname: gita
+  binnames:
+    - gita
+  visiblename: gita
+  version: 0.16.6.1
+  origversion: 0.16.6.1-2
+  status: outdated
+  maintainers:
+    - daniel.baumann@progress-linux.org
+  categories:
+    - universe/misc
+- repo: ubuntu_25_04
+  subrepo: plucky/universe
+  srcname: gita
+  binnames:
+    - gita
+  visiblename: gita
+  version: 0.16.7.2
+  origversion: 0.16.7.2-3
+  status: outdated
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: gita
+  binnames:
+    - gita
+  visiblename: gita
+  version: 0.16.7.2
+  origversion: 0.16.7.2-4
+  status: outdated
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: gita
+  binnames:
+    - gita
+  visiblename: gita
+  version: 0.16.8.2
+  origversion: 0.16.8.2-1
+  status: newest
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
+  srcname: gita
+  binnames:
+    - gita
+  visiblename: gita
+  version: 0.16.8.2
+  origversion: 0.16.8.2-1
+  status: newest
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - universe/misc
