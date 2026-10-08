@@ -30,9 +30,9 @@ x install gita
 
 评分最低的几项:
 
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Code-Review** (3/10) — Found 10/30 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 
 ## 源代码
 
@@ -56,12 +56,12 @@ x install gita
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-08 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-07-09 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last180d | 2026-04-10 | 0 | 0 | 7 | 0 | 0 | 0 |
-| 360d | 2025-10-12 | 2 | 4 | 7 | 3 | 3 | 12 |
-| last720d | 2024-10-17 | 3 | 8 | 7 | 8 | 8 | 17 |
+| 30d | 2026-09-08 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-08-09 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-07-10 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last180d | 2026-04-11 | 0 | 0 | 7 | 0 | 0 | 0 |
+| 360d | 2025-10-13 | 2 | 4 | 7 | 3 | 3 | 12 |
+| last720d | 2024-10-18 | 3 | 8 | 7 | 8 | 8 | 17 |
 
 ## 改进这些数据
 
@@ -72,4 +72,4 @@ gita 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261007.yml` · 2026-10-07T06:26:25Z._
+_数据快照: `data/card/261008.yml` · 2026-10-08T06:42:47Z._
