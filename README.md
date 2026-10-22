@@ -14,11 +14,11 @@ x install gita
 
 ## Code insight
 
-Total: **2,537** lines of code across **15** files in the top 5 languages.
+Total: **2,545** lines of code across **15** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 2,403 | 74 | 314 | 11 |
+| Python | 2,411 | 74 | 315 | 11 |
 | Json | 97 | 0 | 0 | 1 |
 | Makefile | 20 | 0 | 1 | 1 |
 | Fish | 16 | 0 | 1 | 1 |
@@ -30,9 +30,9 @@ Overall score: **4 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Code-Review** (3/10) — Found 10/30 approved changesets -- score normalized to 3
+- **Code-Review** (3/10) — Found 11/30 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 
 ## Source
 
@@ -42,26 +42,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.16.8.2`
-- **Last commit**: 2026-03-31
+- **Last commit**: 2026-10-21
 
 ## Popularity
 
-- **Stars**: 1,955 · **Forks**: 97 · **Open issues**: 158 · **Contributors**: 33
+- **Stars**: 1,955 · **Forks**: 95 · **Open issues**: 158 · **Contributors**: 34
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 125 · **Open PRs**: 11 · **Closed issues**: 131 · **Open issues**: 27 · **Commits**: 495
+- **Releases**: 38 · **Merged PRs**: 126 · **Open PRs**: 10 · **Closed issues**: 131 · **Open issues**: 27 · **Commits**: 496
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-08-22 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 90d | 2026-07-23 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last180d | 2026-04-24 | 0 | 0 | 5 | 0 | 0 | 0 |
-| 360d | 2025-10-26 | 2 | 4 | 8 | 2 | 2 | 0 |
-| last720d | 2024-10-31 | 3 | 8 | 8 | 8 | 8 | 17 |
+| 30d | 2026-09-22 | 0 | 1 | 1 | 0 | 0 | 1 |
+| last60d | 2026-08-23 | 0 | 1 | 1 | 0 | 0 | 1 |
+| 90d | 2026-07-24 | 0 | 1 | 2 | 0 | 0 | 1 |
+| last180d | 2026-04-25 | 0 | 1 | 4 | 0 | 0 | 1 |
+| 360d | 2025-10-27 | 2 | 5 | 7 | 2 | 2 | 11 |
+| last720d | 2024-11-01 | 3 | 9 | 7 | 8 | 8 | 18 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for gita lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:32:49Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:16:19Z._
