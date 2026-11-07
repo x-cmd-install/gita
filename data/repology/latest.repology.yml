@@ -1,26 +1,5 @@
-- repo: gnuguix
-  srcname: gita
-  binname: gita
-  visiblename: gita
-  version: 0.16.7.2
-  origversion: null
-  status: outdated
-  summary: Command-line tool to manage multiple Git repos
-- repo: debian_unstable
-  subrepo: sid/main
-  srcname: gita
-  binnames:
-    - gita
-  visiblename: gita
-  version: 0.16.8.2
-  origversion: 0.16.8.2-1
-  status: newest
-  maintainers:
-    - daniel@debian.org
-  categories:
-    - misc
-- repo: deepin_25
-  subrepo: community
+- repo: parrot
+  subrepo: parrot/main
   srcname: gita
   binnames:
     - gita
@@ -32,8 +11,8 @@
     - daniel@debian.org
   categories:
     - misc
-- repo: devuan_4_0
-  subrepo: chimaera/main
+- repo: pardus_21
+  subrepo: main
   srcname: gita
   binnames:
     - gita
@@ -43,6 +22,19 @@
   status: outdated
   maintainers:
     - daniel.baumann@progress-linux.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: gita
+  binnames:
+    - gita
+  visiblename: gita
+  version: 0.16.7.2
+  origversion: 0.16.7.2-4
+  status: outdated
+  maintainers:
+    - daniel@debian.org
   categories:
     - misc
 - repo: aur
@@ -121,6 +113,45 @@
     - daniel@debian.org
   categories:
     - misc
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: gita
+  binnames:
+    - gita
+  visiblename: gita
+  version: 0.16.8.2
+  origversion: 0.16.8.2-1
+  status: newest
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - misc
+- repo: deepin_25
+  subrepo: community
+  srcname: gita
+  binnames:
+    - gita
+  visiblename: gita
+  version: 0.16.7.2
+  origversion: 0.16.7.2-4
+  status: outdated
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - misc
+- repo: devuan_4_0
+  subrepo: chimaera/main
+  srcname: gita
+  binnames:
+    - gita
+  visiblename: gita
+  version: 0.12.9
+  origversion: 0.12.9-1
+  status: outdated
+  maintainers:
+    - daniel.baumann@progress-linux.org
+  categories:
+    - misc
 - repo: devuan_unstable
   subrepo: unstable/main
   srcname: gita
@@ -134,6 +165,14 @@
     - daniel@debian.org
   categories:
     - misc
+- repo: gnuguix
+  srcname: gita
+  binname: gita
+  visiblename: gita
+  version: 0.16.7.2
+  origversion: null
+  status: outdated
+  summary: Command-line tool to manage multiple Git repos
 - repo: homebrew
   srcname: gita
   visiblename: gita
@@ -220,45 +259,6 @@
     - seqizz@gmail.com
   licenses:
     - MIT
-- repo: pardus_21
-  subrepo: main
-  srcname: gita
-  binnames:
-    - gita
-  visiblename: gita
-  version: 0.12.9
-  origversion: 0.12.9-1
-  status: outdated
-  maintainers:
-    - daniel.baumann@progress-linux.org
-  categories:
-    - misc
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: gita
-  binnames:
-    - gita
-  visiblename: gita
-  version: 0.16.7.2
-  origversion: 0.16.7.2-4
-  status: outdated
-  maintainers:
-    - daniel@debian.org
-  categories:
-    - misc
-- repo: parrot
-  subrepo: parrot/main
-  srcname: gita
-  binnames:
-    - gita
-  visiblename: gita
-  version: 0.16.7.2
-  origversion: 0.16.7.2-4
-  status: outdated
-  maintainers:
-    - daniel@debian.org
-  categories:
-    - misc
 - repo: pureos_byzantium
   subrepo: byzantium/main
   srcname: gita
@@ -391,6 +391,19 @@
     - universe/misc
 - repo: ubuntu_26_10
   subrepo: stonking/universe
+  srcname: gita
+  binnames:
+    - gita
+  visiblename: gita
+  version: 0.16.8.2
+  origversion: 0.16.8.2-1
+  status: newest
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_27_04
+  subrepo: tenacious/universe
   srcname: gita
   binnames:
     - gita
