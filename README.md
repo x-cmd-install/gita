@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,963 · **Forks**: 96 · **Open issues**: 158 · **Contributors**: 34
+- **Stars**: 1,963 · **Forks**: 97 · **Open issues**: 158 · **Contributors**: 34
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 126 · **Open PRs**: 14 · **Closed issues**: 131 · **Open issues**: 27 · **Commits**: 496
+- **Releases**: 38 · **Merged PRs**: 126 · **Open PRs**: 15 · **Closed issues**: 131 · **Open issues**: 27 · **Commits**: 496
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 1 | 4 | 0 | 0 | 1 |
-| last60d | 2026-09-11 | 0 | 1 | 5 | 0 | 0 | 1 |
-| 90d | 2026-08-12 | 0 | 1 | 5 | 0 | 0 | 1 |
-| last180d | 2026-05-14 | 0 | 1 | 8 | 0 | 0 | 1 |
-| 360d | 2025-11-15 | 1 | 4 | 11 | 0 | 1 | 3 |
-| last720d | 2024-11-20 | 3 | 9 | 11 | 8 | 8 | 18 |
+| 30d | 2026-10-12 | 0 | 1 | 5 | 0 | 0 | 1 |
+| last60d | 2026-09-12 | 0 | 1 | 6 | 0 | 0 | 1 |
+| 90d | 2026-08-13 | 0 | 1 | 6 | 0 | 0 | 1 |
+| last180d | 2026-05-15 | 0 | 1 | 9 | 0 | 0 | 1 |
+| 360d | 2025-11-16 | 1 | 4 | 12 | 0 | 1 | 3 |
+| last720d | 2024-11-21 | 3 | 9 | 12 | 8 | 8 | 18 |
 
 ## Distribution status
 
@@ -86,4 +86,4 @@ Install metadata for gita lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:53:48Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:12:38Z._
