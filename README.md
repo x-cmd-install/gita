@@ -24,16 +24,6 @@ Total: **2,545** lines of code across **15** files in the top 5 languages.
 | Fish | 16 | 0 | 1 | 1 |
 | Autoconf | 1 | 0 | 0 | 1 |
 
-## OpenSSF Scorecard
-
-Overall score: **4 / 10**
-
-Lowest-scoring checks:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Code-Review** (3/10) — Found 11/30 approved changesets -- score normalized to 3
-
 ## Source
 
 - **Upstream**: <https://github.com/nosarthur/gita>
@@ -56,12 +46,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-24 | 0 | 1 | 5 | 0 | 0 | 1 |
-| 90d | 2026-08-25 | 0 | 1 | 5 | 0 | 0 | 1 |
-| last180d | 2026-05-27 | 0 | 1 | 8 | 0 | 0 | 1 |
-| 360d | 2025-11-28 | 0 | 3 | 11 | 0 | 1 | 3 |
-| last720d | 2024-12-03 | 3 | 9 | 11 | 8 | 8 | 18 |
+| 30d | 2026-10-25 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-09-25 | 0 | 1 | 5 | 0 | 0 | 1 |
+| 90d | 2026-08-26 | 0 | 1 | 5 | 0 | 0 | 1 |
+| last180d | 2026-05-28 | 0 | 1 | 8 | 0 | 0 | 1 |
+| 360d | 2025-11-29 | 0 | 3 | 11 | 0 | 1 | 3 |
+| last720d | 2024-12-04 | 3 | 9 | 11 | 8 | 8 | 18 |
 
 ## Distribution status
 
@@ -86,4 +76,4 @@ Install metadata for gita lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T09:52:21Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:12:06Z._
