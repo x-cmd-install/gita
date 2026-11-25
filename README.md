@@ -46,26 +46,12 @@ Total: **2,545** lines of code across **15** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 1 | 5 | 0 | 0 | 1 |
-| 90d | 2026-08-26 | 0 | 1 | 5 | 0 | 0 | 1 |
-| last180d | 2026-05-28 | 0 | 1 | 8 | 0 | 0 | 1 |
-| 360d | 2025-11-29 | 0 | 3 | 11 | 0 | 1 | 3 |
-| last720d | 2024-12-04 | 3 | 9 | 11 | 8 | 8 | 18 |
-
-## Distribution status
-
-Reported by **34** distros on [repology.org](https://repology.org/project/gita). **12** are ✅ on the latest upstream release, **21** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `0.16.8.2` | ✅ latest |
-| Debian 14 | `0.16.8.2` | ✅ latest |
-| Debian 13 | `0.16.7.2` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.16.8.2` | ✅ latest |
-| Ubuntu 24.04 LTS | `0.16.6.1` | ⚠️ outdated |
-| Homebrew | `0.16.8.2` | ✅ latest |
-| Nix unstable | `0.16.8.2` | ✅ latest |
+| 30d | 2026-10-26 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 1 | 5 | 0 | 0 | 1 |
+| 90d | 2026-08-27 | 0 | 1 | 5 | 0 | 0 | 1 |
+| last180d | 2026-05-29 | 0 | 1 | 8 | 0 | 0 | 1 |
+| 360d | 2025-11-30 | 0 | 3 | 11 | 0 | 1 | 3 |
+| last720d | 2024-12-05 | 3 | 9 | 11 | 8 | 8 | 18 |
 
 ## Improve this data
 
@@ -76,4 +62,4 @@ Install metadata for gita lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:12:06Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:12:06Z._
